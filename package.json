@@ -1,0 +1,22 @@
+{
+  "name": "abra",
+  "version": "1.0.0",
+  "description": "jbws.ca site code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vollov/abra.git"
+  },
+  "author": "dustin.zhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vollov/abra/issues"
+  },
+  "homepage": "https://github.com/vollov/abra#readme",
+  "dependencies": {
+    "express": "^3.4.8"
+  }
+}
